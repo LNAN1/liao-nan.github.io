@@ -46,7 +46,7 @@ education:
     date_start: 2021-08-01
     date_end: 2022-08-31
     summary: |
-      GPA: 3.64/4.0
+      GPA: 4.4/5.0
       Thesis on _Community resilience evalutaion_. Supervised by [Dr. Nawaz, M](https://discovery.nus.edu.sg/6392-muhammad-nawaz). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
