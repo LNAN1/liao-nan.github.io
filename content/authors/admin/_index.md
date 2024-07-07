@@ -46,27 +46,17 @@ education:
     date_start: 2021-08-01
     date_end: 2022-08-31
     summary: |
+      GPA: 3.64/4.0
       Thesis on _Community resilience evalutaion_. Supervised by [Dr. Nawaz, M](https://discovery.nus.edu.sg/6392-muhammad-nawaz). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://doi.org/10.1016/j.jnlssr.2023.12.005'
+  - area: BSc Human Geography and Urban-Rural Planning 
+    institution: South China Normal University
+    date_start: 2017-09-01
+    date_end: 2021-07-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.64/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -172,4 +162,4 @@ awards:
 
 ## About Me
 
-Liao Nan is a geography teacher at the High School Affiliated to Shenzhen University of Technology. His research interest is social geoeconometric analysis related to spatial justice.
+Liao Nan is a geography teacher at the High School Affiliated to Shenzhen University of Technology. Her research interest is social geoeconometric analysis related to spatial justice.
